@@ -19,6 +19,6 @@ A mobile robot system based on ROS2, OpenCV and Navigation2.
 
 ## Future Plans
 
-- Raspberry Pi + STM32 Robot
-- Voice Interaction Robot
 - Multi-modal Intelligent Robot System
+- Vision-detection-System
+- Stm32-control-platform

@@ -1,2 +1,2 @@
-# Learning-notes-and-projects-about-robotics
+# robotics-projects
 robot-learning
